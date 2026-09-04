@@ -11,14 +11,14 @@
 <b>Front-End</b>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,angular,vue,vite,npm,astro,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,angular,vue,vite,npm,astro,vscode&perline=12" />
   </a>
 </p>
 
 <b>Back-End</b>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,idea,maven,mysql,postgres&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,idea,maven,mysql,postgres&perline=12" />
   </a>
 
 </p>
