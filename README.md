@@ -42,3 +42,10 @@
 <b>Correo: </b> <p>luisgomez24g@gmail.com</p>
 <b>Linkedin:</b> <p>https://www.linkedin.com/in/luisgomezdev/</p>
 <b>Portfolio:</b> <p>https://luisgomezdev.vercel.app/</p>
+
+# My contributions! 😯
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisgomezadev/luisgomezadev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisgomezadev/luisgomezadev/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/luisgomezadev/luisgomezadev/output/github-contribution-grid-snake.svg" />
+</picture>
