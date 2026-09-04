@@ -13,27 +13,27 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,sass,angular,vue,vite,npm,astro,vscode&perline=6" />
   </a>
-  </p>
+</p>
 
-  <b>Back-End</b>
+<b>Back-End</b>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,mysql,postgres&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,idea,maven,mysql,postgres&perline=6" />
   </a>
 
-  </p>
+</p>
 
-  <b>Dev-Ops</b>
-  <p>
+<b>Dev-Ops</b>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jenkins&perline=12" />
+    <img src="https://skillicons.dev/icons?i=jenkins,aws&perline=12" />
   </a>
-  <p/>
+<p/>
 
 #### 🔜 Tambien estoy aprendiendo :
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react&perline=6" />
   </a>
 </p>
 
@@ -42,10 +42,3 @@
 <b>Correo: </b> <p>luisgomez24g@gmail.com</p>
 <b>Linkedin:</b> <p>https://www.linkedin.com/in/luisgomezdev/</p>
 <b>Portfolio:</b> <p>https://luisgomezdev.vercel.app/</p>
-
-# My contributions! 😯
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luisgomezadev/luisgomezadev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luisgomezadev/luisgomezadev/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/luisgomezadev/luisgomezadev/output/github-contribution-grid-snake.svg" />
-</picture>
